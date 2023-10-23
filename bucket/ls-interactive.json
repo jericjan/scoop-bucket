@@ -3,6 +3,7 @@
     "description": "Interactive ls command made in rust",
     "homepage": "https://github.com/Araxeus/ls-interactive",
     "license": "MIT",
+	"bin": ["lsi.bat", "ls-interactive.exe"],
     "architecture": {
         "64bit": {
             "url": "https://github.com/Araxeus/ls-interactive/releases/download/v1.7.0/lsi_v1.7.0_windows.zip",
