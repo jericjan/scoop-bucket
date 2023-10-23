@@ -1,63 +1,12 @@
 {
-    "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
     "version": "v1.7.0",
     "description": "Interactive ls command made in rust",
     "homepage": "https://github.com/Araxeus/ls-interactive",
     "license": "MIT",
-    "notes": "",
     "architecture": {
         "64bit": {
             "url": "https://github.com/Araxeus/ls-interactive/releases/download/v1.7.0/lsi_v1.7.0_windows.zip",
             "hash": "a86f5804308e2182ebe80609b795996cb5cac811c23eeb5703b2ac0d1388051f"
-        },
-        "32bit": {
-            "url": "",
-            "hash": ""
-        },
-        "arm64": {
-            "url": "",
-            "hash": ""
-        }
-    },
-    "pre_install": "",
-    "installer": {
-        "script": ""
-    },
-    "post_install": [
-        "",
-        ""
-    ],
-    "uninstaller": {
-        "script": ""
-    },
-    "bin": "",
-    "env_add_path": [
-        "",
-        ""
-    ],
-    "persist": [
-        "",
-        ""
-    ],
-    "checkver": {
-        "url": "",
-        "regex": ""
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": ""
-            },
-            "32bit": {
-                "url": ""
-            },
-            "arm64": {
-                "url": ""
-            }
-        },
-        "hash": {
-            "url": "",
-            "regex": ""
         }
     }
 }
